@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+}
+
+.languages-container{
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+.contenedorFrom, .contenedorTo{
+    display: flex;
+    width: 180px;
+    flex-direction: column;
+
+}
+label{
+    text-align: center;
+}
+
+.result-container{
+    display: flex;
+    margin-bottom: 30px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+
+}
